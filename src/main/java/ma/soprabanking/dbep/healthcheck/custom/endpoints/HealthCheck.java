@@ -1,4 +1,4 @@
-package ma.soprabanking.dbep.healthcheck.health;
+package ma.soprabanking.dbep.healthcheck.custom.endpoints;
 
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;
